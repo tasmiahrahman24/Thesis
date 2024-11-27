@@ -1,0 +1,11 @@
+## Usage Instructions
+# Dependencies:
+- Install softwares COMSOL Multiphysics 6.2 and MATLAB for simulations.
+# Dataset Preparation:
+- Material parameters of 𝑇𝑖<sub>(x)</sub>𝑌<sub>(1−𝑥)</sub>𝑁 was calculated using MATLAB according to Drude-Lorentz model.
+# Simulation:
+- Setup ports and boundary conditions.
+- Set the mesh to fine triangular mesh. 
+- Run the provided model and adjust parameters for customized applications.
+# Performance Analysis:
+- Validate the model with experimental data or benchmark results using metrics like sensitivity and FOM.
